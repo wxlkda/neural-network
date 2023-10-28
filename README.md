@@ -1,4 +1,4 @@
-# Neural Network Visualizer in WPF
+# Neural Network Visualizer
 
 ## Overview
 
